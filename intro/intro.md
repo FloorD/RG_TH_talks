@@ -64,8 +64,6 @@ Coaches, you'll have 3 attendees in your group.
 
 **Victoria Martinez**  
 
-**Thijs Cadier**  
-
 **Thijs Kempke**  
 
 **Milene Darnis**  
