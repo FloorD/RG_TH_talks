@@ -72,6 +72,8 @@ Coaches, you'll have 3 attendees in your group.
 
 **Alex Tacho**
 
+**Johannes Emerich**  
+
 ... and **Andreas Tiefenthaler** is our 'rennende keep', he'll walk around and jump in whenever your coach needs an extra pair of hands.  
 
 ##An introduction to the Terminal
