@@ -9,14 +9,13 @@ Intro
 
 Bentobox  
 ======
- * ```Bentobox```: **Victoria Martinez & Sander-Martijn Baart**  
+ * ```Bentobox```: **Karen Sijbrandij & Sander-Martijn Baart**  
 
 
  Lightning talks  
 ======
- * ```talk```: **Patrick Huesler** - Creating a fun game with Ruby  
- * ```talk```: **Victoria Martinez** - Getting started with User Experience Design   
- * ```talk```: **Anton - Tony - Bangratz** - Introducing: Octocats!  
- * ```talk```: **Andreas Tiefenthaler** - What's this Open Source thing all about? 
- * ```talk```: **Anika Lindtner** - Rails Girls Summer of Code  
+ * [Where to find resources](http://prezi.com/vlkcx9gdmnf0/how-to-get-in/) - **Martina Simicic**   
+ * ```abangratz / github2 / presentation.cfg```: **Anton - Tony - Bangratz** - Introducing: Octocats!  
+ * ```open_source / index.html```: **Andreas Tiefenthaler** - What's this Open Source thing all about? 
+ * ```Rails Girls Summer of Code / rgsoc_anikalindtner.pdf```: **Anika Lindtner** - Rails Girls Summer of Code  
  
